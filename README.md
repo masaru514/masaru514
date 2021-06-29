@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+わたしについて
+- 👨‍⚕️ フロントエンドエンジニア
+- 💪 NuxtとNextをメインに触っています
+- 🤴 CSSコーディング、設計好き
+- 💡 GCP,Node.jsは勉強中
+- 🐥 フルスタックを目標にしつつ日々精進
+- 📖 my blog => https://masaru514.com/blog/
+
 <!--
 **masaru514/masaru514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
