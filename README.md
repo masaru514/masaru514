@@ -7,6 +7,7 @@
 - 💡 GCP,Golang勉強中
 - 🐥 フルスタックを目標にしつつ日々精進
 - 📖 my blog => https://masaru514.com/
+- 現在副業でお手伝い中のため、毎日コミット出来ていませんが開発は年中無休でやってます!
 
 <!--
 **masaru514/masaru514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
